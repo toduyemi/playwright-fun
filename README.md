@@ -1,1 +1,1 @@
-# Playwright practice excercises
+# Playwright practice exercises
